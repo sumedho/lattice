@@ -1,0 +1,24 @@
+# LED io
+set_io LEDB 39
+set_io LEDG 40
+set_io LEDR 41
+set_io CLK 12
+
+
+# IO PINS
+set_io PIN2 2
+set_io PIN46 46
+set_io PIN44 44
+set_io PIN47 47
+set_io PIN45 45
+set_io PIN48 48
+set_io PIN3 3
+set_io PIN4 4
+
+set_io PIN6 6
+set_io PIN9 9
+set_io PIN11 11
+set_io PIN18 18
+set_io PIN19 19
+set_io PIN13 13
+set_io PIN21 21
